@@ -1,0 +1,16 @@
+{
+  "codename": "MedSan",
+  "ttf_path": "/assets/REFSAN.TTF",
+  "bin_path": "/assets\\ui_font_MedSan.bin",
+  "c_path": "/assets\\ui_font_MedSan.c",
+  "cfg_path": "/assets\\ui_font_MedSan.fcfg",
+  "size": 12,
+  "bpp": 1,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}
